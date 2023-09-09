@@ -9,133 +9,141 @@ export const bannerData = [
 
 export const products = [
     { 
-        id: 'product1',
-        url: 'https://rukminim1.flixcart.com/image/150/150/kapoo7k0/electric-kettle/p/6/s/pigeon-favourite-original-imafs7xhj5uwgrh4.jpeg?q=70', 
-        Url: 'https://rukminim1.flixcart.com/image/416/416/kapoo7k0/electric-kettle/p/6/s/pigeon-favourite-original-imafs7xhj5uwgrh4.jpeg?q=70',
-        title: {
-            shortTitle: 'Home & Kitchen',
-            longTitle: 'Pigeon FAVOURITE Electric Kettle  (1.5 L, Silver, Black)'
-        }, 
-        price: {
-            mrp: 1195,
-            cost: 625,
-            discount: '47%'
-        },
-        quantity: 1,
-        description: 'This electric kettle from Pigeon will soon become a travelers best friend, a hostelite saviour and an answer to all the midnight cravings. With this handy appliance, you can boil water and use it to make instant noodles, packet soup, coffee and green tea.',
-        discount: 'Extra 10% Off', 
-        tagline: 'Deal of the day' 
-    },
-    { 
-        id: 'product2',
-        url: 'https://rukminim1.flixcart.com/image/416/416/kl6wx3k0/sandwich-maker/8/r/d/sandwich-01-flipkart-smartbuy-original-imagydds4zthxt8z.jpeg?q=70', 
-        Url: 'https://rukminim1.flixcart.com/image/416/416/kl6wx3k0/sandwich-maker/8/r/d/sandwich-01-flipkart-smartbuy-original-imagydds4zthxt8z.jpeg?q=70',
-        title: {
-            shortTitle: 'Sandwich Makers',
-            longTitle: 'Flipkart SmartBuy Sandwich 01 Grill  (Black)'
-        },
-        price: {
-            mrp: 1499,
-            cost: 899,
-            discount: '40%'
-        },
-        quantity: 1,
-        description: 'This non-stick sandwich toaster .easy to use and very handy. Directly hold over flame to make tasty toasts and toasted sandwiches. Specially designed by keeping your needs in mind, the sandwich maker makes whatever youre doing simpler, smarter and better',
-        discount: 'From 99+5% Off', 
-        tagline: 'Pestige, Nova & more' 
-    },
-    { 
-        id: 'product3',
-        url: 'https://rukminim1.flixcart.com/image/150/150/kohigsw0/resistance-tube/c/s/e/new-adjustable-single-resistance-tube-multicolor-na-ajro-deal-original-imag2xg88mhmwxz5.jpeg?q=70', 
-        Url: 'https://rukminim1.flixcart.com/image/416/416/kohigsw0/resistance-tube/c/s/e/new-adjustable-single-resistance-tube-multicolor-na-ajro-deal-original-imag2xg88mhmwxz5.jpeg?q=70', 
-        title: {
-            shortTitle: 'Fitness Gear',
-            longTitle: 'AJRO DEAL New Adjustable Single Resistance Tube (Multicolor) Resistance Tube  (Multicolor)'
-        }, 
-        price: {
-            mrp: 499,
-            cost: 166,
-            discount: '66%'
-        },
-        quantity: 1,
-        description: 'This unique product can tone your back muscles, reduce belly fat, improve blood circulation and also improves your body posture. It increases the stamina, energy and vitality of the body. The elastic resistance of the rubber training rope can be used to train and exercise in whichever way you want, according to your physical needs.',
-        discount: 'Upto 70% Off', 
-        tagline: 'Deal of the Day' 
-    },
-    { 
-        id: 'product4',
-        url: 'https://rukminim1.flixcart.com/image/300/300/kll7bm80/smartwatch/c/1/n/43-mo-sw-sense-500-android-ios-molife-original-imagyzyycnpujyjh.jpeg?q=70',
         
-        
-         Url: 'https://rukminim1.flixcart.com/image/416/416/kll7bm80/smartwatch/c/1/n/43-mo-sw-sense-500-android-ios-molife-original-imagyzyycnpujyjh.jpeg?q=70',
-        title: {
-            shortTitle: 'Smart Watches',
-            longTitle: 'Molife Sense 500 Smartwatch  (Black Strap, Freesize)',
-        }, 
-        price: {
-            mrp: 6999,
-            cost: 4049,
-            discount: '42%'
+            id: 'product1',
+            url: 'https://rukminim2.flixcart.com/image/150/150/xif0q/mobile/9/f/p/-original-imaghxenhnpyhn5u.jpeg?q=70', 
+            Url: 'https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/l/8/r/-original-imaghxemnnnkd8bg.jpeg?q=70',
+            title: {
+                shortTitle: 'Apple iPhone 14 Pro',
+                longTitle: 'APPLE iPhone 14 Pro Max (Space Black, 128 GB)'
+            }, 
+            price: {
+                mrp: 139999,
+                cost: 127999,
+                discount: '8%'
+            },
+            quantity: 1,
+            description: 'Dynamic Island, Always-On Display, Pro Motion Technology with Adaptive Refresh Rates Upto 120 Hz, HDR Display, True Tone, Wide Colour (P3), Haptic Touch, Contrast Ratio: 20,00,000:1, Max Brightness: 1,000 nits, Peak Brightness: 1,600 nits, Peak Brightness (Outdoor): 2,000 nits.',
+            discount: 'Extra 10% Off', 
+            tagline: 'Deal of the day' 
         },
-        quantity: 1,
-        description: 'The Molife Sense 500, a brilliant smartwatch with a beautiful large display. Say hello to the infinity 1.7-inch display with 2.5D curved edges. Thanks to seamless Bluetooth 5.0 connectivity, you wont have to keep waiting. Bring a change to your outfit every day with changeable straps. A splash of color every day keeps the boredom away.',
-        discount: 'Grab Now', 
-        tagline: 'Best Seller' 
-    },
+    
+    
     { 
-        id: 'product5',
-        url: 'https://rukminim1.flixcart.com/image/416/416/k3uhhu80/hair-dryer/n/m/t/nova-2800-w-professional-nhp-8220-original-imafmvwfhmzsxdrw.jpeg?q=70',
-        Url: 'https://rukminim1.flixcart.com/image/416/416/k3uhhu80/hair-dryer/n/m/t/nova-2800-w-professional-nhp-8220-original-imafmvwfhmzsxdrw.jpeg?q=70', 
-        title: {
-            shortTitle: 'Trimmers, Dryers & more',
-            longTitle: 'Nova Professional NHP 8220 Hair Dryer  (1800 W, Multicolor)'
-        }, 
-        price: {
-            mrp: 1899,
-            cost: 1124,
-            discount: '40%'
+            id: 'product2',
+            url: 'https://rukminim2.flixcart.com/image/150/150/kz5vwy80/book/d/v/1/rich-dad-poor-dad-original-imagb8f8cfgyutcb.jpeg?q=70', 
+            Url: 'https://rukminim2.flixcart.com/image/416/416/xif0q/regionalbooks/b/z/j/rich-dad-original-imags9tdffyrrzqm.jpeg?q=70',
+            title: {
+                shortTitle: 'Motivational Books',
+                longTitle: 'Rich Dad  (Paperback, Robert kiyosaki)'
+            },
+            price: {
+                mrp: 399,
+                cost: 171,
+                discount: '57%'
+            },
+            quantity: 1,
+            description: 'Rich Dad Poor Dad by Robert Kiyosaki and Sharon Lechter is a book that came out in 1997 and focuses on the importance of financial literacy from an early age. Throughout the book, the author explains how a person can increase their wealth by investing in assets and by being smart with money.',
+            discount: 'From 99+5% Off', 
+            tagline: 'much more books' 
         },
-        quantity: 1,
-        description: '',
-        discount: 'From ₹499', 
-        tagline: 'Kubra, Nova & more' 
-    },
-    { 
-        id: 'product6',
-        url: 'https://rukminim1.flixcart.com/image/150/150/kk01pjk0/fan/d/d/l/tiktik-quiet-portable-table-fan-zigma-original-imafzg7ftzuckpad.jpeg?q=70',
-        Url: 'https://rukminim1.flixcart.com/image/416/416/kk01pjk0/fan/d/d/l/tiktik-quiet-portable-table-fan-zigma-original-imafzg7ftzuckpad.jpeg?q=70', 
-        title: {
-            shortTitle: 'Table Fans',
-            longTitle: 'Portable 300 mm Ultra High Speed 3 Blade Table Fan  (Black, Pack of 1)'
-        }, 
-        price: {
-            mrp: 2250,
-            cost: 1199,
-            discount: '46%'
+    
+        { 
+            id: 'product3',
+            url: 'https://rukminim2.flixcart.com/image/150/150/l3os4280/dumbbell/i/t/o/10kg-2-5kg-x-4-pvc-dumbbell-set-home-gym-kit-10-aman-fit-original-imagerhx7qnsgzf4.jpeg?q=70', 
+            Url: 'https://rukminim2.flixcart.com/image/416/416/l3os4280/dumbbell/i/t/o/10kg-2-5kg-x-4-pvc-dumbbell-set-home-gym-kit-10-aman-fit-original-imagerhx7qnsgzf4.jpeg?q=70', 
+            title: {
+                shortTitle: 'Fitness Accessories',
+                longTitle: 'AKASH FIT 10KG (2.5KG X 4) PVC Dumbbell Set Home Gym KIT Adjustable Dumbbell  (10 kg)'
+            }, 
+            price: {
+                mrp: 1999,
+                cost: 330,
+                discount: '83%'
+            },
+            quantity: 1,
+            description: 'This unique product can tone your back muscles, reduce belly fat, improve blood circulation and also improves your body posture. It increases the stamina, energy and vitality of the body. The elastic resistance of the rubber training rope can be used to train and exercise in whichever way you want, according to your physical needs.',
+            discount: 'Upto 70% Off', 
+            tagline: 'Deal of the Day' 
         },
-        quantity: 1,
-        description: 'Table Fan. Perfect size fan for use on a table, desk or in an RV. Whisper quiet, powerful airflow and reliable operation in a compact 6" size. Two adjustable speeds to customize airflow: high or low settings. Tough break-resistant ABS plastic blades. ',
-        discount: 'Minimum 40% Off', 
-        tagline: 'Top Selling' 
-    },
-    { 
-        id: 'product7',
-        url: 'https://rukminim1.flixcart.com/image/150/150/kcgk1ow0/headphone/n/u/a/235v2-fast-charging-boat-original-imaftk6us4af7bca.jpeg?q=70',
-        Url: 'https://rukminim1.flixcart.com/image/416/416/kcgk1ow0/headphone/n/u/a/235v2-fast-charging-boat-original-imaftk6us4af7bca.jpeg?q=70', 
-        title: {
-            shortTitle: 'Headphones',
-            longTitle: 'boAt Rockerz 235v2 with ASAP charging Version 5.0 Bluetooth Headset '
-        }, 
-        price: {
-            mrp: 2990,
-            cost: 1199,
-            discount: '59%'
+        { 
+            id: 'product4',
+            url: 'https://rukminim2.flixcart.com/image/150/150/xif0q/smartwatch/e/4/c/-original-imaghxg9hnk2bztm.jpeg?q=70',
+            
+            
+             Url: 'https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/e/4/c/-original-imaghxg9hnk2bztm.jpeg?q=70',
+            title: {
+                shortTitle: 'Smart Watches',
+                longTitle: 'APPLE Watch Ultra GPS + Cellular - ECG App, Temp sensor, Blood oxygen, Fall Detection  (Orange Alpine Strap, Medium)',
+            }, 
+            price: {
+                mrp: 89999,
+                cost: 8299,
+                discount: '7%'
+            },
+            quantity: 1,
+            description: 'WHY APPLE WATCH ULTRA - Rugged and capable, built to meet the demands of endurance athletes, outdoor adventurers and water sports enthusiasts - with a specialised strap for each. Up to 36 hours of battery life, plus all the Apple Watch features that help you stay healthy, safe and connected.',
+            discount: 'Grab Now', 
+            tagline: 'Best Seller' 
         },
-        quantity: 1,
-        description: 'Let music brighten up your mood anytime, anywhere with the boAt 235v2 Fast Charging Bluetooth Headset. This Bluetooth headset features a Call Vibration Alert, a Fast Charging Technology, and Easy Access Controls to listen to and manage your favorite music with ease.',
-        discount: 'Minimum 50% Off', 
-        tagline: 'Grab Now!' 
-    }
+    
+        { 
+            id: 'product5',
+            url: 'https://rukminim2.flixcart.com/image/150/150/kuof5ow0/trimmer/7/z/f/0-5-10-mm-bt3101-15-stainless-steel-cordless-philips-original-imag7r4r7ztgnuyk.jpeg?q=70',
+            Url: 'https://rukminim2.flixcart.com/image/416/416/kuof5ow0/trimmer/7/z/f/0-5-10-mm-bt3101-15-stainless-steel-cordless-philips-original-imag7r4r7ztgnuyk.jpeg?q=70', 
+            title: {
+                shortTitle: 'Trimmers, Dryers & more',
+                longTitle: 'PHILIPS BT3101/15 Trimmer 45 min Runtime 10 Length Settings  (Black, White)'
+            }, 
+            price: {
+                mrp: 1899,
+                cost: 1124,
+                discount: '40%'
+            },
+            quantity: 1,
+            description: '',
+            discount: 'From ₹499', 
+            tagline: 'Kubra, Nova & more' 
+        },
+        { 
+            id: 'product6',
+            url: 'https://rukminim2.flixcart.com/image/150/150/power-hand-tool-kit/v/v/g/gsb-500-re-kit-bosch-original-imaeg63dbybtqzfy.jpeg?q=70',
+            Url: 'https://rukminim2.flixcart.com/image/416/416/kk76wsw0/power-hand-tool-kit/7/t/z/06012161f8-bosch-original-imafzhdecykvgm2w.jpeg?q=70', 
+            title: {
+                shortTitle: 'Power and Hand Toolkit',
+                longTitle: 'BOSCH GSB 500 RE Kit Power & Hand Tool Kit  (100 Tools)'
+            }, 
+            price: {
+                mrp: 7950,
+                cost: 3729,
+                discount: '53%'
+            },
+            quantity: 1,
+            description: 'The Bosch GSB 500 RE Power & Hand Tool Kit comes with 92 commonly used tools in a compact suitcase. This versatile and powerful kit from Bosch features a powerful 500 W motor for carrying out tough tasks and many other tools that make home repair tasks a piece of cake. ',
+            discount: 'Minimum 40% Off', 
+            tagline: 'Top Selling' 
+        },
+        { 
+            id: 'product7',
+            url: 'https://rukminim2.flixcart.com/image/150/150/l0mr7gw0/cycle/o/t/4/chord-27-5-17-montra-21-gear-74-original-imagcdmtgabtbqrf.jpeg?q=70',
+            Url: 'https://rukminim2.flixcart.com/image/416/416/l0mr7gw0/cycle/o/t/4/chord-27-5-17-montra-21-gear-74-original-imagcdmtgabtbqrf.jpeg?q=70', 
+            title: {
+                shortTitle: 'Geared Cycles',
+                longTitle: 'Montra CHORD 27.5 T Mountain Cycle  (21 Gear, Blue, Black, Blue) '
+            }, 
+            price: {
+                mrp: 25430,
+                cost: 17247,
+                discount: '32%'
+            },
+            quantity: 1,
+            description: 'Age Group: 15+ Years Ideal For Gear: 21 Gear Gear Type: Easy Fire Shifters/Thumb ShiftersFront Brake: Disc Brake | Rear Brake: Disc Brake Frame Material: Aluminium Cycle/Alloy CycleSuspension: Rigid Tire Size: 27.5 inches Frame Size:17 inch: Men.',
+            discount: 'Minimum 50% Off', 
+            tagline: 'Grab Now!' ,
+        }
+    
+    
+    
 ];
 
 
